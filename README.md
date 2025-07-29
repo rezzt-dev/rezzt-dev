@@ -1,7 +1,7 @@
 <h1>👋, What's up?</h1>
 <h3 align="center">My name is Juan Garcia Cazallas and I'm a simple developer, from Spain.</h3>
 
-- 🔭 I’m currently working on [quork.](quork.rezzt.dev)
+- 🔭 I’m currently working on [quork.](https://quork.rezzt.dev/)
 
 - 👨‍💻 All of my projects are available at [rezzt.dev](rezzt.dev)
 
