@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [quork.](https://quork.rezzt.dev/)
 
-- 👨‍💻 All of my projects are available at [rezzt.dev](rezzt.dev)
+- 👨‍💻 All of my projects are available at [rezzt.dev](https://rezzt.dev)
 
 - 📫 How to reach me **contacto@rezzt.dev**
 
