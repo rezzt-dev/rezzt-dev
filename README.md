@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I'm a developer based in Ciudad Real, Spain, with a keen interest in building user-friendly applications. I enjoy working with various technologies and love the challenge of turning ideas into reality. You can check out my personal website at [rezzt.dev](https://www.rezzt.dev) for more insights into my projects and interests.</p>
+<p align="left">I'm a developer based in Ciudad Real, Spain, with a keen interest in building user-friendly applications. I enjoy working with various technologies and love the challenge of turning ideas into reality. You can check out my personal website at <a href="https://www.rezzt.dev">rezzt.dev</a> for more insights into my projects and interests.</p>
 
 ###
 
